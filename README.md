@@ -1,2 +1,4 @@
-# hello-world
-"Je suis en train d'apprendre le MLOps ! 🚀"
+## Projets en Cours  
+- [ ] Apprendre Git/GitHub  
+- [ ] Déployer une IA avec Hugging Face  
+- [ ] Maîtriser Docker 
