@@ -1,2 +1,4 @@
-# Journal Jour 1  
-Aujourd'hui, j'ai appris à cloner un dépôt GitHub et à créer un fichier ! 🎉  
+ 
+# Journal du Jour 1  
+- [x] Clonage du dépôt  
+- [x] Création de jour1.md  
