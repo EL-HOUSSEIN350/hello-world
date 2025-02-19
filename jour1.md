@@ -1,5 +1,5 @@
-# Journal du Jour 1  
-**Date** : 18 février 2024  
+  # Journal du Jour 1  
+**Date** : 19 février 2025  
 
 ## Ce que j'ai appris :  
 - [x] Créer un dépôt GitHub  
