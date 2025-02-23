@@ -1,0 +1,6 @@
+Medical-Dashboard-MLOps/  
+├── app.py                   
+├── requirements.txt         
+├── assets/                  
+│   └── dashboard-demo.gif  
+└── README.md              
